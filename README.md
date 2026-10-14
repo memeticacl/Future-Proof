@@ -1,6 +1,6 @@
-# Future Proof
+# FUTURE PROOF
 
-Instrumento exprés de autopercepción sobre preparación organizacional frente a un futuro incierto. Producto de Memética (Futures Evolution Ltda.).
+Indicador de preparación para el futuro organizacional. Instrumento exprés de autopercepción sobre preparación organizacional frente a un futuro incierto. Producto de Memética (Futures Evolution Ltda.).
 
 - `index.html` — el cuestionario y el reporte de resultado (calculado en el navegador).
 - `privacidad.html` — política de privacidad.
