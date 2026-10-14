@@ -1,4 +1,4 @@
-# Future Readiness
+# Future Proof
 
 Instrumento exprés de autopercepción sobre preparación organizacional frente a un futuro incierto. Producto de Memética (Futures Evolution Ltda.).
 
